@@ -1,4 +1,4 @@
-# Adapt this code for integrating it into main.py and play around with it for class and noise interpolations
+# Adapt this code for integrating it into main.py and play around with it for class interpolations and noise variations.
 
 import math
 
